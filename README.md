@@ -8,9 +8,9 @@ This project uses React, Cypress, cypress-cucumber-preprocessor and @testing-lib
 
 2. ### Go into the app directory and run `yarn` to install all dependencies
 
-3. ### `yarn start` -> this will start your app at localhost:3000
+3. ### `npm run start` -> this will start your app at localhost:3000
 
-4. ### `yarn cypress:open` -> this will open cypress at port 3000
+4. ### `npm run cypress:open` -> this will open cypress at port 3000
 
 5. Pick the file you want to run and click on it. This should run the feature file for this test
 

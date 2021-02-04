@@ -6,7 +6,7 @@ This project uses React, Cypress, cypress-cucumber-preprocessor and @testing-lib
 
 1. ### Clone the project by runnig `git clone git@github.com:Iliaspit/automation-test.git` 
 
-2. ### Go into the app directory and run `yarn` to install all dependencies
+2. ### Go into the app directory and run `npm install` to install all dependencies
 
 3. ### `npm run start` -> this will start your app at localhost:3000
 
